@@ -32,7 +32,7 @@ Voice, vision and co-play combine into one thing: **a digital friend for everyth
 - Rating your outfit before you head out
 - Watching videos, streams, school projects, movies, shows you think of side by side.
 - Hanging out in voice calls with you and your friends
-- and literally anything else you'd do online with a friend
+- Literally anything else you'd do online with a friend
 
 ---
 
