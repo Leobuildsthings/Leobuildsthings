@@ -50,4 +50,5 @@ The persona's live calls produce something rare: **real, consented conversations
 - [mentarapersona.com](https://www.mentarapersona.com)
 - [YouTube: the persona live](https://www.youtube.com/@KrazyyChris)
 - [Datasets on Hugging Face](https://huggingface.co/datasets/Leobuildsthings/mentara-conversations)
-- Discord: DMs open for datasets, collaborations and partnerships
+- [Join the Mentara Discord](https://discord.gg/pkMcUdhVGz)
+ ~ Discord: DMs open for datasets, collaborations and partnerships
